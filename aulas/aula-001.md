@@ -1,6 +1,4 @@
-### **Plano de Aula: Introdução a Internet / Primeiros passos com HTML**
-
-**Duração**: 4 horas
+### **Aula 1: Introdução a Internet / Primeiros passos com HTML**
 
 ---
 

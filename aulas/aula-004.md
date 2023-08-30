@@ -13,6 +13,8 @@
 #### **III. Atividades e Desafios**
 
 - **A. Atividades Práticas:**
-  - [Exercício 004](../exercicios/exercicio-004/exercicio-004.md)
-  - [Exercício 005](../exercicios/exercicio-005/exercicio-005.md)
+  - Exercício de tags - Página de um blog sobre hotéis - [Exercício 005](../exercicios/exercicio-005/)
+  - Exemplo de tags - [Exercício 006](../exercicios/exercicio-006/)
+  - Exemplo de listas - [Exercício 007](../exercicios/exercicio-007/)
+  - Exemplo de links - [Exercício 008](../exercicios/exercicio-008/)
     

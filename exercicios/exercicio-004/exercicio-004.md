@@ -21,3 +21,4 @@
     - `<footer>`
     - `<strong>`
     - `<em>`
+    - `<mark>`

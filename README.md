@@ -6,6 +6,7 @@ Este repositório contém os arquivos do curso de Web Design desenvolvido por
 [Yago de Castro](https://github.com/yagodecastro/).
 
 - Pasta [`aulas`](./aulas): contém o resumo das aulas.
+- Pasta [`aulas-pdf`](./referencias/curso-html-css-gustavo-guanabara/aulas-pdf/): contém os arquivos PDF utilizados nas aulas.
 - Pasta [`exercicios`](./exercicios): contém os arquivos dos exercícios.
 - Pasta [`referencias`](./referencias): contém os arquivos de referência. 
 

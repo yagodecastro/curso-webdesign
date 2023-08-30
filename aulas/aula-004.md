@@ -13,4 +13,5 @@
 #### **III. Atividades e Desafios**
 
 - **A. Atividades Práticas:**
+  - [Exercício 004](../exercicios/exercicio-004/exercicio-004.md)
     

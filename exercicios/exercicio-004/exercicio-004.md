@@ -18,7 +18,13 @@
     - `<h2>`
     - `<p>`
     - `<img>`
+<<<<<<< HEAD
     - `<address>`
     - `<strong>`
     - `<em>`
     - `<mark>`
+=======
+    - `<footer>`
+    - `<strong>`
+    - `<em>`
+>>>>>>> f43a806b60301eb0d20d1db96ee6e128926c5a7c

@@ -19,15 +19,19 @@
         - [Free Pik](https://br.freepik.com/)
 
     - **Utilize as tags:**
-        - `<h1>` 
-        - `<h2>`
-        - `<p>`
-        - `<img>`
-        - `<ul>`
-        - `<li>`
-        - `<a>`
-        - `<address>`
-        - `<strong>`
-        - `<em>`
+        - Títulos e subtítulos: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` e `<h6>`
+        - Parágrafos: `<p>`
+        - Imagens: `<img>`
+        - Listas: `<ul>` e `<ol>`
+        - Itens de lista: `<li>`
+        - Links: `<a>`
+        - Endereço: `<address>`
+        - Negrito: `<strong>`
+        - Itálico: `<em>`
+        - Citação curta: `<q>`
+        - Citação longa: `<blockquote>`
+        - Código: `<code>`
+        - Linha horizontal: `<hr>`
+        - Quebra de linha: `<br>`
 
 ---

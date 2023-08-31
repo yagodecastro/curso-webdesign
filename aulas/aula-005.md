@@ -14,4 +14,4 @@
   - Exemplo de links - [Exercício 008](../exercicios/exercicio-008/)
 
 - **B. Desafios:**
-    - Desafio de Página HTML - [Desafio 001](../desafios/desafio-001/instrucao.md)
+    - Desafio de Página HTML - [Desafio 001](../desafios/desafio-001/)

@@ -13,5 +13,6 @@
 #### **III. Exercícios e Desafios**
 
 - **A. Exercícios:**
-  - Exercícios de CSS - [Exercício 011](../exercicios/exercicio-011/)
+  - Exercício de CSS 1 - [Exercício 011](../exercicios/exercicio-011/)
+  - Exercício de CSS 2 - [Exercício 012](../exercicios/exercicio-012/)
   - Jogo de seletores CSS [CSS Dinner](https://flukeout.github.io/)

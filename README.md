@@ -21,3 +21,4 @@ Este repositório contém os arquivos do curso de Web Design desenvolvido por
 - [Aula 6](./aulas/aula-006.md): HTML: Imagens responsivas, áudio e vídeo
 - [Aula 7](./aulas/aula-007.md): CSS: Introdução
 - [Aula 8](./aulas/aula-008.md): CSS: Seletores
+- [Aula 9](./aulas/aula-009.md): CSS: Box Model

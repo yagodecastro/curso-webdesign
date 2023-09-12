@@ -1,4 +1,4 @@
-### **Aula 6: CSS - Introdução**
+### **Aula 7: CSS - Introdução**
 
 ---
 

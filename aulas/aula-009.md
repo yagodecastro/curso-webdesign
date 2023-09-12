@@ -1,4 +1,4 @@
-### **Aula 6: CSS - Box Model**
+### **Aula 9: CSS - Box Model**
 
 ---
 

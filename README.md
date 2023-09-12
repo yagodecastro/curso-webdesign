@@ -23,3 +23,4 @@ Este repositório contém os arquivos do curso de Web Design desenvolvido por
 - [Aula 8](./aulas/aula-008.md): CSS: Seletores
 - [Aula 9](./aulas/aula-009.md): CSS: Box Model
 - [Aula 10](./aulas/aula-010.md): Design: Conceitos Fundamentais
+- [Aula 11](./aulas/aula-011.md): Design: Conceitos Fundamentais 2

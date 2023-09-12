@@ -1,4 +1,4 @@
-### **Aula 6: CSS - Seletores**
+### **Aula 8: CSS - Seletores**
 
 ---
 

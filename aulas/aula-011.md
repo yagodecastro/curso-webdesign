@@ -1,14 +1,15 @@
-### **Aula 11: Design - Conceitos Fundamentais 2**
+### **Aula 11: Product Design**
 
 ---
 
-#### **I. Design - Conceitos Fundamentais**
+#### **I. Referências**
 
-- **A. Referências:**
-  - Sites:
-    - [Coloco ja ja]
+- **A. Sites:**
+  - [Figma - Design Basics](https://www.figma.com/resource-library/design-basics/)
+  - [Figma - O que é Design de Produto?](https://www.figma.com/resource-library/what-is-product-design/)
+  - [Figma - O que é Wireframing?](https://www.figma.com/resource-library/what-is-wireframing/)
 
 #### **III. Exercícios e Desafios**
 
 - **A. Exercícios:**
-  - Exercício de Wireframing - [Figma - Template de Wireframing](https://www.figma.com/templates/wireframe-kits/)
+  - Exercício de Wireframing - [Figma - Template de Wireframing](https://www.figma.com/file/GBCGqs11KNeUyPksQzEMw0hr/Wireframing/duplicate?source=website)

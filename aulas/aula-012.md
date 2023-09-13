@@ -1,13 +1,11 @@
-### **Aula 11: Design System**
+### **Aula 12: Design de Interface - UI Design**
 
 ---
 
 #### **I. Referências**
 
 - **A. Sites:**
-  - [Figma - Design Basics](https://www.figma.com/resource-library/design-basics/)
-  - [Figma - O que é Design de Produto?](https://www.figma.com/resource-library/what-is-product-design/)
-  - [Figma - O que é Wireframing?](https://www.figma.com/resource-library/what-is-wireframing/)
+  - [Figma - User Interface Design (UI) - Design de Interface](https://www.figma.com/resource-library/ui-design/)
   - [Coolors - Gerador de Paleta de Cores](https://coolors.co/)
 
 #### **III. Exercícios e Desafios**

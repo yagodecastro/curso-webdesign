@@ -8,6 +8,7 @@
   - [Figma - Design Basics](https://www.figma.com/resource-library/design-basics/)
   - [Figma - O que é Design de Produto?](https://www.figma.com/resource-library/what-is-product-design/)
   - [Figma - O que é Wireframing?](https://www.figma.com/resource-library/what-is-wireframing/)
+  - [Coolors - Gerador de Paleta de Cores](https://coolors.co/)
 
 #### **III. Exercícios e Desafios**
 

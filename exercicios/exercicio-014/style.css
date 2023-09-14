@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-color: #D5BFF7;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size:large;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+p {
+    font-size: small;
+    font-weight: 400;
+}

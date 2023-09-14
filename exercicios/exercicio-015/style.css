@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+    display: grid;
+    grid-template-columns: auto 50% 50%;
+    gap: 5px;
+}
+
+.yellow-box {
+    background-color: #FFC700;
+}

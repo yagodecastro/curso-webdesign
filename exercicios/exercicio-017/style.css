@@ -1,2 +1,40 @@
 @charset "UTF-8";
 
+.container {
+    /* transformar a div "mãe" em um grid */
+    display: grid;
+
+    /* definir que a "mãe" terá 3 colunas de tamanho automático (irão preencher todo o espaço disponível) */
+    grid-template-columns: auto auto auto;
+
+    /* definir que a "mãe" terá 2 linhas de tamanho automático (irão preencher todo o espaço disponível) */
+    grid-template-rows: auto auto auto;
+
+    /* definir a cor de fundo para cinza claro */
+    background-color: lightgray;
+
+    /* definir altura e largura fixas */
+    height: 600px;
+    width: 600px;
+
+    /* definir a margem automática para centralizar a "mãe" */
+    margin: auto;
+
+    /* centralizar os filhos nos eixos vertical e horizontal */
+    /* horizontal */
+    justify-content: space-evenly;
+    /* vertical */
+    align-content: space-between;
+
+    /* definir um espaçamento entre as células do grid */
+    gap: 10px;
+}
+
+.box {
+    /* definir a cor de fundo dos "filhos" de aqua */
+    background-color: aqua;
+
+    /* definir tamanho dos filhos */
+    height: 100px;
+    width: 100px;
+}

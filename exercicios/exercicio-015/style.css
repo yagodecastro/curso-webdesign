@@ -12,7 +12,12 @@ body {
 }
 
 .yellow-box {
+    display: grid;
     background-color: #FFC700;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto auto;
+    justify-content: center;
+    align-content: center;
 }
 
 .yellow-box > div {

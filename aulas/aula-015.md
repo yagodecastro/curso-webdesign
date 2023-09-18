@@ -1,4 +1,4 @@
-### **Aula 14: CSS Layout: Grid 1**
+### **Aula 15: CSS Layout: Grid 2**
 
 ---
 
@@ -10,6 +10,6 @@
 #### **II. Exercícios e Desafios**
 
 - **A. Exercícios:**
-    - [Exercício 16](../exercicios/exercicio-016/)
+    - [Exercício 17](../exercicios/exercicio-017/)
 
 

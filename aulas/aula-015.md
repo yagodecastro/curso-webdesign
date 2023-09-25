@@ -6,6 +6,7 @@
 
 - **A. Sites:**
   - [Learn CSS - Grid](https://web.dev/learn/css/grid/)
+  - [Jogo - CSS Grid Garden](https://cssgridgarden.com/)
 
 #### **II. Exercícios e Desafios**
 

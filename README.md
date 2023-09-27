@@ -29,3 +29,5 @@ Este repositório contém os arquivos do curso de Web Design desenvolvido por
 - [Aula 14](./aulas/aula-014.md): CSS Layout: CSS Grid
 - [Aula 15](./aulas/aula-015.md): CSS Layout: CSS Grid 2
 - [Aula 16](./aulas/aula-016.md): CSS Layout: CSS Grid 3
+- [Aula 17](./aulas/aula-017.md): CSS: Práticas 1
+- [Aula 18](./aulas/aula-018.md): CSS: Práticas 2

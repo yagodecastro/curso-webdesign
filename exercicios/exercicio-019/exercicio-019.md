@@ -4,7 +4,7 @@
 [Figma Layout - Exercício 19](https://www.figma.com/file/AAKKznU1Wtwy7m14anoTbq/Exerc%C3%ADcio-CSS-2?type=design&node-id=0%3A1&mode=design&t=p1iDyqryH3vmHdZt-1)
 
 ## Etapas para o desenvolvimento do exercício:
-- [ ] 1. Criar um novo projeto no VS Code;
+- [ ] 1. Criar um novo projeto ou pasta no VS Code;
 - [ ] 2. Criar um arquivo `index.html`;
 - [ ] 3. Criar a estrutura básica de um documento HTML;
     - [ ] 3.1. Utilizar o atalho `!` para criar a estrutura básica;

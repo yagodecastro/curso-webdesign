@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Exo', sans-serif;
+    font-weight: 400;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: 5fr 1fr 1fr;
+    padding: 10px 20px;
+    gap: 10px;
+    align-items: center;
+}
+
+.button {
+    background-color: white;
+    border: 2px solid black;
+    /* 
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+     */
+    padding: 10px 24px;
+}
+
+.nav {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.link-nav {
+    text-decoration: none;
+    color: black;
+}
+
+.button-nav {
+    justify-self: end;
+}
+
+.primary-button {
+    background-color: black;
+    color: white;
+    padding: 10px 24px;
+}
+
+.section-1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    justify-items: center;
+    gap: 10px;
+    margin: 40px 50px;
+}
+
+.fs-small {
+    font-size: small;
+}
+
+.fs-medium {
+    font-size: medium;
+}
+
+.fs-large {
+    font-size: large;
+}
+
+.fs-x-large {
+    font-size: x-large;
+}
+
+.fs-xx-large {
+    font-size: xx-large;
+}
+
+.img-x-small {
+    height: 50px;
+}
+
+.img-small {
+    height: 80px;
+}
+
+.img-medium {
+    height: 150px;
+}
+
+.img-large {
+    height: 250px;
+}
+
+.img-x-large {
+    height: 300px;
+}
+
+.section-2 {
+    text-align: center;
+}

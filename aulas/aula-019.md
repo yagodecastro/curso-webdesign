@@ -10,6 +10,6 @@
   - [Curso gratuito de Git e Github](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
 
 - **B. PDFs:**
-    - [Git e Github](../referencias/curso-html-css-gustavo-guanabara/aulas-pdf/18 - Aprendendo Git e GitHub.pdf)
+    - [Git e Github](../referencias/curso-html-css-gustavo-guanabara/aulas-pdf/18%20-%20Aprendendo%20Git%20e%20GitHub.pdf)
 
 

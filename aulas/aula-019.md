@@ -11,5 +11,3 @@
 
 - **B. PDFs:**
     - [Git e Github](../referencias/curso-html-css-gustavo-guanabara/aulas-pdf/18%20-%20Aprendendo%20Git%20e%20GitHub.pdf)
-
-

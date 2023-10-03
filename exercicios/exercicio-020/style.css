@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.container1 {
+    display: flex;
+    background-color: red;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding: 5px;
+    height: 400px;
+    /* justify-content: space-around;
+    align-content: space-around; */
+
+    place-content: space-around center;
+}
+
+.container1>div {
+    background-color: aqua;
+    border: 2px solid;
+    padding: 2px;
+}
+
+
+.container2 {
+    display: none;
+    background-color: red;
+    margin-top: 20px;
+    gap: 5px;
+    /* justify-content: center; */
+}
+
+.container2>div {
+    border: 2px solid;
+    background-color: aqua;
+    padding: 3px;
+}

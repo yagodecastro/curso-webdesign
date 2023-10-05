@@ -9,9 +9,13 @@ Este repositório contém os arquivos do curso de Web Design desenvolvido por
 - Pasta [`aulas-pdf`](./referencias/curso-html-css-gustavo-guanabara/aulas-pdf/): contém os arquivos PDF utilizados nas aulas.
 - Pasta [`exercicios`](./exercicios): contém os arquivos dos exercícios.
 - Pasta [`desafios`](./desafios): contém os arquivos dos desafios.
-- Pasta [`referencias`](./referencias): contém os arquivos de referência. 
+- Pasta [`referencias`](./referencias): contém os arquivos de referência.
 
-## Aulas
+### Projeto final
+
+- [Pasta do Projeto Final](./projeto-final/)
+
+### Aulas
 
 - [Aula 1](./aulas/aula-001.md): Introdução a Internet / Primeiros passos com HTML
 - [Aula 2](./aulas/aula-002.md): HTML: Imagens e favicon

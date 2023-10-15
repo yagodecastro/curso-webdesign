@@ -17,9 +17,3 @@
     - [ ] 6.1. Adicionar o parametro `@charset "UTF-8";` para evitar problemas com acentuação;
 - [ ] 7. Criar uma pasta `img` e adicionar as imagens do layout;
 - [ ] 8. Let's code!
-
-## Idéias de negócios para o exercício:
-
-Abaixo estão algumas ideias de negócios que podem ser utilizadas para elaborar a página HTML fornecida:
-
-[Exemplos de Negócios](exemplos-de-negocios/)

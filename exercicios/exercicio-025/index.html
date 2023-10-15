@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exercício de Variáveis em JS</title>
+    <style>
+      body {
+        background-color: rgb(231, 221, 246);
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h1>Caculadora de consumo médio</h1>
+
+      <label for="consumo-mensal"> Consumo mensal </label>
+      <input id="consumo-mensal" type="number" />
+
+      <label for="total-pessoas"> Total de pessoas </label>
+      <input id="total-pessoas" type="number" />
+
+      <button onclick="calcular()">Calcular</button>
+    </div>
+
+    <script>
+      function calcular() {
+        console.log('A funcao esta funcionando!')
+
+        let consumoMensaldoAr = document.getElementById('consumo-mensal').value
+        let totalPessoas = document.getElementById('total-pessoas').value
+
+        let consumoMedio = consumoMensaldoAr / totalPessoas;
+
+        console.log(consumoMedio)
+
+        let resposta = `O consumo médio do ar por pessoa é de: ${consumoMedio}`;
+
+        console.log(resposta)
+      }
+    </script>
+
+    <script>
+      // função para saber o total de pcs disponíveis
+      /*
+    let totalComputadores = prompt('Informe o total de computadores')
+    let totalPessoas = prompt('Informe o total de pessoas')
+    let computadoresDisponiveis = totalComputadores - totalPessoas
+    let resposta = `Temos ${totalComputadores} computadores e ${totalPessoas} pessoas, portanto sobram ${computadoresDisponiveis} computadores`
+    
+    alert(resposta)
+    */
+    </script>
+  </body>
+</html>

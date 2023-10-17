@@ -1,11 +1,14 @@
-// Sistema Webdesign
-// Armazenar a lista de alunos do curso de Webdesign e mostrar na tela.
+let alunos = ['Paulinha', 'Chirley', 'Luciana', 'Sam', 'Jhenifer', 'Tamiris', 'Kauan', 'Gabriel', 'Hyago', 'Danilo', 'Vinicius']
 
-// Quais são os dados?
-// Alunos: Nome ()
+let divAlunos = document.getElementById('div-alunos')
 
-// Quais são as ações/funções/métodos/etapas/passos
+divAlunos.innerText = alunos
 
-// 1. Pegar os dados do usuário ()
-// 1.2. Salvar os dados do usuário ()
-// 3. Exibir os dados na tela ()
+function adicionarAluno() {
+    
+    let novoAluno = document.getElementById('nome').value
+    
+    alunos.push(novoAluno)
+
+    divAlunos.innerText = alunos
+}

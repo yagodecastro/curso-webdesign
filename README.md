@@ -38,6 +38,8 @@ Este repositório contém os arquivos do curso de Web Design desenvolvido por
 - [Aula 19: Git e GitHub](./aulas/aula-019.md)
 - [Aula 20: CSS: CSS Flexbox 1](./aulas/aula-020.md)
 - [Aula 21: CSS: CSS Flexbox 2](./aulas/aula-021.md)
+- [Aula 22: Tailwind](./aulas/aula-022.md)
+- [Aula 23: Javascript](./aulas/aula-023.md)
 
 ---
 
